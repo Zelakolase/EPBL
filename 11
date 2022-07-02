@@ -1,0 +1,12 @@
+Make a program that manipulates lettercases
+
+Example: 
+1. The user executes the program
+2. The user enters text. e.g 'Hello World' (without quotes)
+3. The program prints :
+Lowercase: hello world
+Uppercase: HELLO WORLD
+Flipped Case : hELLO wORLD
+
+
+

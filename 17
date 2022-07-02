@@ -1,0 +1,13 @@
+Make a program that reads and writes on files.
+
+Example: 
+1. The user executes the program
+2. The user enters text. e.g 'r test.txt' (without quotes)
+3. The program reads 'test.txt' in the current directory
+
+Example test cases:
+'r test.txt' -> Prints the content of 'test.txt'
+'w test.txt hi' -> Writes 'hi' to 'test.txt'
+
+Required:
+- Input/Output on disk

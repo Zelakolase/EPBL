@@ -1,0 +1,9 @@
+Make a program that prints the HTML content of a page.
+
+Example: 
+1. The user executes the program
+2. The user enters text. e.g 'https://www.google.com' (without quotes)
+3. The program prints the html content
+
+Required:
+- HTTP Client Request send

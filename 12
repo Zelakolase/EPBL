@@ -1,0 +1,13 @@
+Make a command prompt that can execute programs in task.2,3,8 or print time and date.
+
+Commands :
+'mean 5 4 1 0' -> Prints the mean average of 5,4,1, and 0.
+'sb 4 5 3' -> Prints the smallest and biggest number of 4,5, and 3.
+'c Hi' -> Prints how many letters are in the text 'Hi'.
+'time' -> Prints current time and date
+
+Example: 
+1. The user executes the program
+2. The user enters text. e.g 'time' (without quotes)
+3. The program prints the time and date, then listens again to the user input.
+

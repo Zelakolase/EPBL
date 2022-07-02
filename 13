@@ -1,0 +1,15 @@
+Make a program that prints certain characters according to certain rules.
+
+Example: 
+1. The user executes the program
+2. The user enters text. e.g 'e hello' (without quotes)
+3. The program prints 'hlo'.
+
+How it works?
+The first letter is either 'e' or 'o' to indicate even or odd respectively.
+The remainaing text is the text to be analyzed, in the case of 'hello' :
+
+h e l l o
+0 1 2 3 4
+
+Print only characters with even indexes 0,2, and 4. The output is 'hlo'.

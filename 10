@@ -1,0 +1,8 @@
+Make a program that counts how many thousands in a number.
+
+Example: 
+1. The user executes the program
+2. The user enters numbers. e.g '1500 5900 250 1' (without quotes)
+3. The program prints '1 5 0 0'
+
+Note: Floating points such as 1.5 are not allowed. Please floor the decimal to the nearest smallest integer.

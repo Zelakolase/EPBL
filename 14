@@ -1,0 +1,9 @@
+Make a program that randomly generates passwords with given length.
+
+Example: 
+1. The user executes the program
+2. The user enters number. e.g '3' (without quotes)
+3. The program prints any 3 character sequence 'abc' 'fgr' 'reh', etc..
+
+Required:
+- Pseudo-random Number Generation

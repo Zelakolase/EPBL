@@ -1,0 +1,6 @@
+Make a TCP Server that prints messages from clients.
+
+Required: 
+- TCP Singlethreaded server
+- TCP/IP
+
